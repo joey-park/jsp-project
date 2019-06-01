@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: HXTT Version Robot
+Main-Class: com.hxtt.sql.admin.Admin
+
+Name: com/hxtt/sql/admin/
+Specification-Title: HXTT Database Admin
+Implementation-Title: com.hxtt.sql.admin
+Specification-Vendor: Hongxin Technology & Trade Ltd.
+Specification-Version: 0.5 on October 11, 2016
+Comment: HXTT Database Admin
+Implementation-Version: 0.5 on October 11, 2016
+Implementation-Vendor: Hongxin Technology & Trade Ltd.
+Implementation-URL: http://www.hxtt.com/access/dbadmin.html
+
+Name: com/hxtt/sql/access/
+Specification-Title: HXTT Access JDBC 3.0 Package For Evaluation Purpo
+ se
+Implementation-Title: com.hxtt.sql.access
+Specification-Version: 5.2.167 on October 11, 2016
+Specification-Vendor: Hongxin Technology & Trade Ltd.
+Comment: JDBC 3.0 Package for Microsoft Access
+Implementation-Version: 5.2.167 on October 11, 2016
+Implementation-Vendor: Hongxin Technology & Trade Ltd.
+Implementation-URL: http://www.hxtt.com/access.html
+
